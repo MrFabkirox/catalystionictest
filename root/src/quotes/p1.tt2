@@ -1,0 +1,7 @@
+    [% # This is a TT comment. -%]
+
+    [%- # Provide a title -%]
+    [% META title = 'Book List' -%]
+
+
+    [% message %] on 'quotes/p1.tt2'

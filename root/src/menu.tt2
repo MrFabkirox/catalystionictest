@@ -1,0 +1,7 @@
+<div id="menu">
+    Navigation:
+    <p></p><ul>
+        <li><a href="[% c.uri_for('/p0/p1') %]">p1</a></li>
+        <li><a href="[% c.uri_for('/p0/p2') %]">p2</a></li>
+    </p></ul>
+</div><!-- end menu -->
